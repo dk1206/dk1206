@@ -1,136 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Karthik Dobbali
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=200&section=header&text=KARTHIK%20DOBBALI&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=75" width="100%" />
 
-### 💻 Full Stack Developer | IT Undergraduate | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Flask;Building+Real-World+Web+Applications;Exploring+AI+%26+RAG+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React+%7C+Node.js+%7C+Flask;Exploring+AI+%26+RAG+systems;Turning+ideas+into+real+projects" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Information Technology (2027)
-- 💻 Full Stack Developer passionate about building real-world applications
-- 🔭 Worked on CRM systems, AI-powered booking platforms and offline AI assistants
-- 🌱 Exploring AI, RAG and modern web technologies
-- ⚡ Focused on building, deploying and improving practical applications
+```yaml
+name: Karthik Dobbali
+role: Full Stack Developer
+education: B.Tech - Information Technology (2027)
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - RAG & LLM Applications
+  - Software Engineering
+currently_building: Real-world web applications
+```
+
+- 🚀 Building full-stack applications from frontend to backend
+- 🧠 Exploring Retrieval Augmented Generation and local LLMs
+- 💻 Passionate about problem-solving and software development
+- 🌱 Constantly learning and building new things
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,npm" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🗂️ Mini CRM – Lead Management System
+<table>
+<tr>
+<td width="50%">
 
-- Full-stack CRM application for managing website leads
-- JWT authentication and bcrypt password hashing
-- CRUD REST API, filtering, search and pagination
-- Responsive React dashboard with analytics
+### 🗂️ Mini CRM
 
-**Tech:** React, Node.js, Express, Sequelize, SQL, JWT
+**Lead Management System**
 
-🔗 [View Repository](https://github.com/dk1206/FUTURE_FS_02)
+A full-stack CRM application designed to manage website leads with secure authentication and a responsive dashboard.
 
----
+- JWT Authentication
+- CRUD REST APIs
+- Lead filtering & pagination
+- Analytics dashboard
 
-### 🚌 SmartBus – AI-Powered Bus Ticket Booking System
+**Stack:** React · Node.js · Express · SQL
 
-- Bus booking platform with route search and seat selection
-- Simulated payments, cancellations and ticket downloads
-- Demand prediction and trip recommendation logic
-- Flask backend and SQLite database
+<a href="https://github.com/dk1206/FUTURE_FS_02">↗ Repository</a>
 
-**Tech:** Python, Flask, SQLite, Machine Learning
+</td>
+<td width="50%">
 
-🔗 [View Repository](https://github.com/dk1206/smartbus)
+### 🚌 SmartBus
 
----
+**AI-Powered Bus Booking**
 
-### 🤖 CampusGPT – Offline AI Assistant
+A bus ticket booking platform with intelligent trip recommendations and demand prediction.
 
-- Offline AI assistant built for college students
-- Uses a locally hosted LLM and Retrieval Augmented Generation (RAG)
-- Retrieves relevant information from authorized college resources
+- Route search
+- Seat selection
+- Booking & cancellation
+- Demand prediction
 
-**Tech:** Python, Local LLM, RAG
+**Stack:** Python · Flask · SQLite · ML
+
+<a href="https://github.com/dk1206/smartbus">↗ Repository</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🤖 CampusGPT
+
+**Offline AI Assistant for College Students**
+
+An offline conversational AI system using a locally hosted LLM and Retrieval Augmented Generation to retrieve relevant college information.
+
+**Stack:** Python · Local LLM · RAG
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Web Development Intern – Future Interns**
+<details>
+<summary><b>Full Stack Web Development Intern — Future Interns</b></summary>
 
-- Developed a lead management CRM using React, Node.js, Express and SQL.
-- Designed and deployed a responsive portfolio website using React, Vite, Tailwind CSS and Framer Motion.
+- Developed a lead management Mini CRM using React, Node.js, Express and SQL.
+- Built and deployed a responsive personal portfolio using React, Vite, Tailwind CSS and Framer Motion.
+- Implemented modern UI design and responsive layouts.
+
+</details>
 
 ---
 
 ## 🏆 Certifications
 
-- ServiceNow Certified Implementation Specialist – CMDB CSDM
-- GenAI-Powered Data Analytics Job Simulation – Tata Group (Forage)
-- Data Analytics Job Simulation – Deloitte (Forage)
-- Advanced Software Engineering Job Simulation – Walmart Global Tech (Forage)
-- Python for Data Science – NPTEL
+- 🥇 ServiceNow Certified Implementation Specialist – CMDB CSDM
+- 🧠 GenAI-Powered Data Analytics Job Simulation – Tata Group (Forage)
+- 📊 Data Analytics Job Simulation – Deloitte (Forage)
+- 💻 Advanced Software Engineering Job Simulation – Walmart Global Tech (Forage)
+- 🐍 Python for Data Science – NPTEL
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dk1206&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=dk1206&show_icons=true&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=000000" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk1206&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk1206&layout=compact&theme=dark&hide_border=true&title_color=FF3333&text_color=FFFFFF&bg_color=000000" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dk1206&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dk1206&theme=dark&hide_border=true&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&background=000000" width="70%" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/karthik-dobbali-7a5b8737d">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/dk1206">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -139,6 +164,8 @@
 
 <div align="center">
 
-### 💡 Building. Learning. Deploying. Improving.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=60&section=footer" width="100%" />
+
+<sub>Building. Learning. Shipping. Improving. 🚀</sub>
 
 </div>
