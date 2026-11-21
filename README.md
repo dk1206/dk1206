@@ -22,14 +22,14 @@ interests:
 currently_building: Real-world web applications
 ```
 
-- 🚀 Building full-stack applications from frontend to backend
+- 🚀 Building full-stack applications across frontend and backend
 - 🧠 Exploring Retrieval Augmented Generation and local LLMs
-- 💻 Passionate about problem-solving and software development
-- 🌱 Constantly learning and building new things
+- 💻 Interested in problem-solving and software engineering
+- 🌱 Learning by building and improving practical projects
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ currently_building: Real-world web applications
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
-### Backend & Database
+### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,sqlite" />
 
 ### Tools & Platforms
@@ -55,49 +55,49 @@ currently_building: Real-world web applications
 <tr>
 <td width="50%">
 
-### 🗂️ Mini CRM
+### 🌐 Portfolio
 
-**Lead Management System**
+Personal developer portfolio showcasing projects, skills, experience, and contact information.
 
-A full-stack CRM application designed to manage website leads with secure authentication and a responsive dashboard.
+**Stack:** React · Vite · Tailwind CSS · Framer Motion
 
-- JWT Authentication
-- CRUD REST APIs
-- Lead filtering & pagination
-- Analytics dashboard
-
-**Stack:** React · Node.js · Express · SQL
-
-<a href="https://github.com/dk1206/FUTURE_FS_02">↗ Repository</a>
+[View Repository](https://github.com/dk1206/Portfolio)
 
 </td>
 <td width="50%">
 
-### 🚌 SmartBus
+### 🗂️ Mini-CRM
 
-**AI-Powered Bus Booking**
+A full-stack lead management application with admin authentication, a dashboard, and lead tracking.
 
-A bus ticket booking platform with intelligent trip recommendations and demand prediction.
+- JWT authentication
+- Lead management REST API
+- Search, filtering, and pagination
+- Dashboard analytics
 
-- Route search
-- Seat selection
-- Booking & cancellation
-- Demand prediction
+**Stack:** React · Node.js · Express · Sequelize · SQL
 
-**Stack:** Python · Flask · SQLite · ML
-
-<a href="https://github.com/dk1206/smartbus">↗ Repository</a>
+[View Repository](https://github.com/dk1206/Mini-CRM)
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
+
+### 🚌 SmartBus
+
+AI-powered bus booking platform with trip discovery and demand prediction.
+
+**Stack:** Python · Flask · SQLite · Machine Learning
+
+[View Repository](https://github.com/dk1206/smartbus)
+
+</td>
+<td width="50%">
 
 ### 🤖 CampusGPT
 
-**Offline AI Assistant for College Students**
-
-An offline conversational AI system using a locally hosted LLM and Retrieval Augmented Generation to retrieve relevant college information.
+An offline conversational assistant concept for retrieving college information with a locally hosted language model and RAG.
 
 **Stack:** Python · Local LLM · RAG
 
@@ -112,9 +112,9 @@ An offline conversational AI system using a locally hosted LLM and Retrieval Aug
 <details>
 <summary><b>Full Stack Web Development Intern — Future Interns</b></summary>
 
-- Developed a lead management Mini CRM using React, Node.js, Express and SQL.
-- Built and deployed a responsive personal portfolio using React, Vite, Tailwind CSS and Framer Motion.
-- Implemented modern UI design and responsive layouts.
+- Developed a lead management Mini-CRM using React, Node.js, Express, and SQL.
+- Built a personal portfolio using React, Vite, Tailwind CSS, and Framer Motion.
+- Worked on responsive interfaces and full-stack application workflows.
 
 </details>
 
@@ -122,11 +122,11 @@ An offline conversational AI system using a locally hosted LLM and Retrieval Aug
 
 ## 🏆 Certifications
 
-- 🥇 ServiceNow Certified Implementation Specialist – CMDB CSDM
-- 🧠 GenAI-Powered Data Analytics Job Simulation – Tata Group (Forage)
-- 📊 Data Analytics Job Simulation – Deloitte (Forage)
-- 💻 Advanced Software Engineering Job Simulation – Walmart Global Tech (Forage)
-- 🐍 Python for Data Science – NPTEL
+- ServiceNow Certified Implementation Specialist – CMDB CSDM
+- GenAI-Powered Data Analytics Job Simulation – Tata Group (Forage)
+- Data Analytics Job Simulation – Deloitte (Forage)
+- Advanced Software Engineering Job Simulation – Walmart Global Tech (Forage)
+- Python for Data Science – NPTEL
 
 ---
 
@@ -146,11 +146,11 @@ An offline conversational AI system using a locally hosted LLM and Retrieval Aug
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/karthik-dobbali-7a5b8737d">
+<a href="https://www.linkedin.com/in/karthik-dobbali-7a5b87337">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
